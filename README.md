@@ -2,7 +2,7 @@
 
 Check out this fun drawing app that allows you to unleash your creativity in a lighthearted way. Please note that it's not perfect and might have a couple of bugs, but that's what makes it all the more fun!
 
-![Demo Video](videomd.mp4)
+![Demo Video](./public/videomd.mp4)
 
 ## How to Clone and Run the App Locally
 
@@ -10,9 +10,9 @@ Check out this fun drawing app that allows you to unleash your creativity in a l
 
 Clone the repository to your local machine using the following command:
 
-```bash
+```
 git clone url
-
+```
 
 Install Necessary Modules if required
 
